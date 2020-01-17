@@ -7,6 +7,6 @@ describe('binarySearchArray', () => {
   });
 
   it('expect more tests to be written in accordance with FDA guidelines for consumption', () => {
-
+    chai.assert('foo' !== 'bar', 'foo is not bar')
   })
 });
